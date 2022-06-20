@@ -1,0 +1,10 @@
+@mixin md {
+  @media screen and (min-width: 48em) {
+    @content;
+  }
+}
+@mixin lg {
+  @media screen and (min-width: 62.375em) {
+    @content;
+  }
+}

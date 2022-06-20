@@ -1,0 +1,29 @@
+//Font sizes
+$fs-12: 1.2rem;
+$fs-14: 1.4rem;
+$fs-16: 1.6rem;
+$fs-18: 1.8rem;
+$fs-20: 2rem;
+$fs-24: 2.4rem;
+$fs-32: 3.2rem;
+$fs-40: 4rem;
+$fs-48: 4.8rem;
+$fs-64: 6.4rem;
+
+//Light Mode
+$c-lt-white: hsl(0, 0%, 100%);
+$c-lt-light: hsl(0, 0%, 98%);
+$c-lt-gray: hsl(0, 0%, 52%);
+$c-lt-dark: hsl(200, 15%, 8%);
+
+//Dark Mode
+// $c-dt-1: hsl(209, 23%, 22%);
+// $c-dt-2: hsl(207, 26%, 17%);
+
+// - Very Dark Blue (Light Mode Text): hsl(200, 15%, 8%)
+// - Dark Gray (Light Mode Input): hsl(0, 0%, 52%)
+// - Very Light Gray (Light Mode Background): hsl(0, 0%, 98%)
+// - White (Dark Mode Text & Light Mode Elements): hsl(0, 0%, 100%)
+
+// - Dark Blue (Dark Mode Elements): hsl(209, 23%, 22%)
+// - Very Dark Blue (Dark Mode Background): hsl(207, 26%, 17%)

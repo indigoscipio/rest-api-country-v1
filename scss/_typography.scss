@@ -1,0 +1,10 @@
+.header {
+  &__title {
+    font-size: $fs-14;
+    font-weight: 700;
+  }
+
+  &__toggle-theme {
+    font-size: $fs-12;
+  }
+}

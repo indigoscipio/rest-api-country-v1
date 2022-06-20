@@ -1,0 +1,22 @@
+{
+  "name": "rest-api-country-v1",
+  "version": "1.0.0",
+  "description": "![Design preview for the REST Countries API with color theme switcher coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass -w scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indigoscipio/rest-api-country-v1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indigoscipio/rest-api-country-v1/issues"
+  },
+  "homepage": "https://github.com/indigoscipio/rest-api-country-v1#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
